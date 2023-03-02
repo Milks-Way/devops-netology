@@ -5,4 +5,7 @@ new string
 terraform, будут игнорироваться:
 файлы с расширением: .tfstate, .tfvars, .tfvars.json, .terraformrc;
 файлы: crash.log, override.tf, override.tf.json, terraform.rc;
-файлыс имеющие в названии _override с расширением .tf и .json. 
+файлыс имеющие в названии _override с расширением .tf и .json.
+
+Ещё одна новая строка для задания.
+ 
